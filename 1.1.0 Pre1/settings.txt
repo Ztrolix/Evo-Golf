@@ -1,0 +1,5 @@
+Evo Golf Settings
+ 
+FPS Limit: _____ [Do not change over 120!]
+Speed Limit: _____ [Do not change over 3!]
+Brightness: _____ [Do not change over 100!]
